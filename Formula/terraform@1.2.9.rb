@@ -1,4 +1,4 @@
-class Terraform < Formula
+class TerraformAT129 < Formula
   desc "Terraform"
   homepage "https://www.terraform.io/"
   version "1.2.9"
